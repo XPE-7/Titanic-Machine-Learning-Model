@@ -10,6 +10,5 @@ This repository contains a Machine Learning model to predict the survival of pas
 - Data preprocessing, including handling missing values and feature engineering  
 - Machine Learning model training and evaluation  
 - Multiple algorithms compared (Logistic Regression, Random Forest, etc.)  
-- Performance evaluation using accuracy, precision, recall, and F1-score  
-
-## 📂 Project Structure
+- Performance evaluation using accuracy, precision, recall, and F1-score
+  
